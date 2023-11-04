@@ -1,0 +1,7 @@
+colorlog
+homeassistant
+requests
+datetime
+bs4
+argparse
+pytz

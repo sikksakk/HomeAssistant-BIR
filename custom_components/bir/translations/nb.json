@@ -1,0 +1,29 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "BIR",
+                "description": "Hvis du trenger hjep til konfigurasjon ta en titt her: https://github.com/sikksakk/HomeAssistant-BIR",
+                "data": {
+                    "postalcode": "Postnummer"
+                }
+            }
+        },
+        "error": {
+            "auth": "Brukernavn/Passord er feil."
+        },
+        "abort": {
+            "single_instance_allowed": "Denne integrasjonen kan kun konfigureres en gang."
+        }
+    },
+    "options": {
+        "step": {
+            "user": {
+                "data": {
+                    "binary_sensor": "Binær sensor aktivert",
+                    "sensor": "Sensor aktivert"
+                }
+            }
+        }
+    }
+}

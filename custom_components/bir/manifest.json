@@ -1,0 +1,12 @@
+{
+  "domain": "bir",
+  "name": "BIR",
+  "codeowners": [
+    "@sikksakk"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/sikksakk/HomeAssistant-BIR",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/sikksakk/HomeAssistant-BIR/issues",
+  "version": "0.1"
+}
